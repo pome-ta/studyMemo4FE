@@ -56,3 +56,5 @@ b.forEach((i, idx) => {
 });
 answer;
 ```
+
+とりまがんばる
